@@ -1,6 +1,6 @@
 [package]
 name = "toml-rsl"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["XS <tonycody@qq.com>"]
 license = "Apache-2.0"
 readme = "README.md"
@@ -22,6 +22,13 @@ members = ['test-suite']
 [dependencies]
 serde = "1.0.97"
 indexmap = { version = "1.0", optional = true }
+jdks = "0.1.0"
+sdkman-cli-native = "0.4.6"
+ksre-tui = "0.1.0"
+xml-rsl = "0.1.0"
+tar-rsl = "0.1.0"
+ssh2-rsl = "0.1.0"
+crypto-rsl = "0.1.0"
 
 [dev-dependencies]
 serde_derive = "1.0"
