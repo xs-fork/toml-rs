@@ -1,13 +1,13 @@
 [package]
-name = "toml"
-version = "0.5.9"
-authors = ["Alex Crichton <alex@alexcrichton.com>"]
-license = "MIT/Apache-2.0"
+name = "toml-rsl"
+version = "0.1.0"
+authors = ["XS <tonycody@qq.com>"]
+license = "Apache-2.0"
 readme = "README.md"
 keywords = ["encoding"]
-repository = "https://github.com/alexcrichton/toml-rs"
-homepage = "https://github.com/alexcrichton/toml-rs"
-documentation = "https://docs.rs/toml"
+repository = "https://github.com/xs-fork/toml-rs"
+homepage = "https://github.com/xs-fork/toml-rs"
+documentation = "https://docs.rs/toml-rsl"
 description = """
 A native Rust encoder and decoder of TOML-formatted files and streams. Provides
 implementations of the standard Serialize/Deserialize traits for TOML data to
